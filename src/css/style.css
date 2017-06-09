@@ -1,0 +1,52 @@
+
+div {
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    color: darksalmon;
+}
+ 
+.board {
+    background-color:white;
+    height: 100%;
+    padding: 4px;
+}
+ 
+.commentContainer {
+    background: #eee;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 8px;
+    padding: 8px;
+}
+ 
+.comment {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+ 
+button {
+    margin-right: 6px;
+}
+ 
+textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+ 
+.box {
+ 
+    background-color: peru;
+    margin-bottom: 10px;
+    width:200px;
+ 
+}
+ 
+button.create{
+    margin-bottom: 8px;
+}
+ 
+#app {
+    margin: 10px;
+}
